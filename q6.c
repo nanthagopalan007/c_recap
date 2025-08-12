@@ -1,0 +1,8 @@
+int main() {
+    printf("Special characters:\n");
+    printf("@\n");
+    printf("#\n");
+    printf("$\n");
+    printf("%%\n"); // Use %% to print % in C
+    return 0;
+}
