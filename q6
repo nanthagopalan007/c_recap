@@ -1,6 +1,10 @@
-# Program to print special characters
-special_characters = ['@', '#', '$', '%']
+#include <stdio.h>
 
-print("Special characters:")
-for char in special_characters:
-    print(char)
+int main() {
+    printf("Special characters:\n");
+    printf("@\n");
+    printf("#\n");
+    printf("$\n");
+    printf("%%\n"); // Use %% to print % in C
+    return 0;
+}
