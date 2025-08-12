@@ -1,0 +1,6 @@
+# Program to print special characters
+special_characters = ['@', '#', '$', '%']
+
+print("Special characters:")
+for char in special_characters:
+    print(char)
